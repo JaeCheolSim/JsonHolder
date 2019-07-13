@@ -1,0 +1,11 @@
+{
+  "data": 
+	{ 
+	  result : 
+		[{ response : "success", cardContent : "글 본문 입니다",
+		   likecount : 40, hatecount : 99 },
+		 { response : "error", cardContent : "글 본문 에러입니다.",
+		   likecount : 11 , hatecount : 324}]
+	}
+}
+
