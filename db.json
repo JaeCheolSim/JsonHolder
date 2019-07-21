@@ -1,11 +1,31 @@
 {
-  "data": 
-	{ 
-	  "result" : 
-		[{ "response" : "success", "cardContent" : "글 본문 입니다",
-		   "likecount" : 40, "hatecount" : 99 },
-		 { "response" : "error", "cardContent" : "글 본문 에러입니다.",
-		   "likecount" : 11 , "hatecount" : 324}]
-	}
+	"data": 
+		{ 
+		  "result" : 
+			[{ "response" : "success", "cardContent" : "글 본문 입니다",
+			   "likecount" : 40, "hatecount" : 99 },
+			 { "response" : "error", "cardContent" : "글 본문 에러입니다.",
+			   "likecount" : 11 , "hatecount" : 324}]
+		}
+	"page1":
+	[
+		{
+			userid: 'simjae1',
+			profile: 'profile.jpg',
+			writer: 'jaechoel1',
+			regdate: 'yesterday',
+			title: 'this is board title1!!',
+			boardSeq: 1,
+		},
+		{
+			userid: 'simjae2',
+			profile: 'profile.jpg',
+			writer: 'jaechoel2',
+			regdate: 'today',
+			title: 'this is board title2!!',
+			boardSeq: 2,
+		}
+	];
+	
 }
 
