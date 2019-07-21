@@ -10,19 +10,19 @@
 	"page1":
 			[
 				{
-					"userid": 'simjae1',
-					"profile": 'profile.jpg',
-					"writer": 'jaechoel1',
-					"regdate": 'yesterday',
-					"title": 'this is board title1!!',
+					"userid":  "simjae1",
+					"profile": "profile.jpg",
+					"writer":  "jaechoel1",
+					"regdate":  "yesterday",
+					"title":  "this is board title1!!",
 					"boardSeq": 1,
 				},
 				{
-					"userid": 'simjae2',
-					"profile": 'profile.jpg',
-					"writer": 'jaechoel2',
-					"regdate": 'today',
-					"title": 'this is board title2!!',
+					"userid": "simjae2",
+					"profile": "profile.jpg",
+					"writer": "jaechoel2",
+					"regdate": "today",
+					"title": "this is board title2!!",
 					"boardSeq": 2,
 				}
 			]
