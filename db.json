@@ -15,7 +15,7 @@
 					"writer":  "jaechoel1",
 					"regdate":  "yesterday",
 					"title":  "this is board title1!!",
-					"boardSeq": 1,
+					"boardSeq": 1
 				},
 				{
 					"userid": "simjae2",
@@ -23,7 +23,7 @@
 					"writer": "jaechoel2",
 					"regdate": "today",
 					"title": "this is board title2!!",
-					"boardSeq": 2,
+					"boardSeq": 2
 				}
 			]
 	
