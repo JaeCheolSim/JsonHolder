@@ -1,7 +1,3 @@
-/*
-url: 'https://my-json-server.typicode.com/JaeCheolSim/JsonHolder/data/..'
-*/
-
 {
 	"data": 
 			{ 
@@ -37,3 +33,7 @@ url: 'https://my-json-server.typicode.com/JaeCheolSim/JsonHolder/data/..'
 				"content": "댓글이 성공적으로 등록되었습니다.",
 			}
 }
+
+/*
+url: 'https://my-json-server.typicode.com/JaeCheolSim/JsonHolder/..'
+*/
