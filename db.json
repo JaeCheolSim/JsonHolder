@@ -26,12 +26,13 @@
 					"boardSeq": 2
 				}
 			],
-	"reply":
-			{
-				"result": 1,
-				"nickname":  "심심재",
-				"content": "댓글이 성공적으로 등록되었습니다.",
-			}
+	"reply":	[
+				{
+					"result": 1,
+					"nickname":  "심심재",
+					"content": "댓글이 성공적으로 등록되었습니다.",
+				}
+			]
 }
 
 /*
