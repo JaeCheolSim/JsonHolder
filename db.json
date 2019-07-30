@@ -67,4 +67,8 @@
       }
     ]
   }
+  "replyAsync":{
+    "nickname" : "변구훈",
+    "content" : "변구훈은 BGH이다. 변구훈은 슈퍼 존잘남이다. This is BGH"
+  }
 }
