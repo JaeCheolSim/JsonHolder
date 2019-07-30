@@ -1,65 +1,70 @@
-{
-	"data": 
-			{ 
-			  "result" : 
-				[{ "response" : "success", "cardContent" : "글 본문 입니다",
-				   "likecount" : 40, "hatecount" : 99 },
-				 { "response" : "error", "cardContent" : "글 본문 에러입니다.",
-				   "likecount" : 11 , "hatecount" : 324}]
-			},
-	"page1":
-			[
-				{
-					"userid":  "simjae1",
-					"profile": "profile.jpg",
-					"writer":  "jaechoel1",
-					"regdate":  "yesterday",
-					"title":  "this is board title1!!",
-					"boardSeq": 1
-				},
-				{
-					"userid": "simjae2",
-					"profile": "profile.jpg",
-					"writer": "jaechoel2",
-					"regdate": "today",
-					"title": "this is board title2!!",
-					"boardSeq": 2
-				}
-			],
-	"reply":	
-			{
-				"result": -1,
-				"nickname":  "심심재",
-				"content": "댓글이 성공적으로 등록되었습니다."
-			},
-	"infiniteswipe":
-	{
-		"votecount" : 1,
-		"replycount" : 392,
-		"card_top_desc" : "상단 카드 내용",
-		"card_top_count" : 192,
-		"card_top_prtg" : "45%",
-		"card_bottom_desc" : "하단 카드 내용",
-		"card_bottom_count" : 345,
-		"card_bottom_prtg" : "55%",
-		"detail_txtarea" : "이곳은 본문이 들어가는 곳입니다",
-		"replys" : [
-			{
-				"replytit" : "익명1",
-				"replycont" : "익명1이 남긴 댓글입니다 과연 어떻게 될까요 ??? "
-			},
-			{
-				"replytit" : "익명2",
-				"replycont" : "익명2 남긴 댓글입니다 과연 어떻게 될까요 ??? "
-			},
-			{
-				"replytit" : "익명3",
-				"replycont" : "익명3 남긴 댓글입니다 과연 어떻게 될까요 ??? "
-			},
-			{
-				"replytit" : "익명4",
-				"replycont" : "익명4 남긴 댓글입니다 과연 어떻게 될까요 ??? "
-			}
-		]
-	}
+{  
+  "data":{  
+    "result":[  
+      {  
+        "response":"success",
+        "cardContent":"글 본문 입니다",
+        "likecount":40,
+        "hatecount":99
+      },
+      {  
+        "response":"error",
+        "cardContent":"글 본문 에러입니다.",
+        "likecount":11,
+        "hatecount":324
+      }
+    ]
+  },
+  "page1":[  
+    {  
+      "userid":"simjae1",
+      "profile":"profile.jpg",
+      "writer":"jaechoel1",
+      "regdate":"yesterday",
+      "title":"this is board title1!!",
+      "boardSeq":1
+    },
+    {  
+      "userid":"simjae2",
+      "profile":"profile.jpg",
+      "writer":"jaechoel2",
+      "regdate":"today",
+      "title":"this is board title2!!",
+      "boardSeq":2
+    }
+  ],
+  "reply":{  
+    "result":-1,
+    "nickname":"심심재",
+    "content":"댓글이 성공적으로 등록되었습니다."
+  },
+  "infiniteswipe":{  
+    "votecount":1,
+    "replycount":392,
+    "card_top_desc":"상단 카드 내용",
+    "card_top_count":192,
+    "card_top_prtg":"45%",
+    "card_bottom_desc":"하단 카드 내용",
+    "card_bottom_count":345,
+    "card_bottom_prtg":"55%",
+    "detail_txtarea":"이곳은 본문이 들어가는 곳입니다",
+    "replys":[  
+      {  
+        "replytit":"익명1",
+        "replycont":"익명1이 남긴 댓글입니다 과연 어떻게 될까요 ??? "
+      },
+      {  
+        "replytit":"익명2",
+        "replycont":"익명2 남긴 댓글입니다 과연 어떻게 될까요 ??? "
+      },
+      {  
+        "replytit":"익명3",
+        "replycont":"익명3 남긴 댓글입니다 과연 어떻게 될까요 ??? "
+      },
+      {  
+        "replytit":"익명4",
+        "replycont":"익명4 남긴 댓글입니다 과연 어떻게 될까요 ??? "
+      }
+    ]
+  }
 }
