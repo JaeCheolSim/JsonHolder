@@ -37,10 +37,10 @@
 		"votecount" : 1,
 		"replycount" : 392,
 		"card_top_desc" : "상단 카드 내용",
-		"card_top_count" : "192",
+		"card_top_count" : 192,
 		"card_top_prtg" : "45%",
 		"card_bottom_desc" : "하단 카드 내용",
-		"card_bottom_count" : "345",
+		"card_bottom_count" : 345,
 		"card_bottom_prtg" : "55%",
 		"detail_txtarea" : "이곳은 본문이 들어가는 곳입니다",
 		"replys" : [
